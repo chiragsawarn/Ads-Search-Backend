@@ -1,0 +1,43 @@
+GET http://localhost:5000/ads
+
+###
+
+POST http://localhost:5000/ads/search
+Content-Type: application/json
+
+{
+    "searchInput":"Curology"
+}
+###
+
+POST http://localhost:5000/ads
+Content-Type: application/json
+
+{
+    "companyId":"6363a1cadabe83469a9bcaa8",
+    "companyName":"Levi's",
+    "primaryText":"100% ireland spun pure cotton.",
+    "headline":"Women's Pure Cotton Jeans",
+    "description":"Environment friendly, premium fabric.",
+    "cta":"Order Now",
+    "imageUrl":"https://drive.google.com/file/d/17kQiqGnkLEZZmnzLlWG7ZIlN6XbwAVfb/view?usp=sharing"
+}
+
+###
+GET http://localhost:5000/ads/636235bf83e1e21dc74d3532
+
+### COMPANIES ###
+
+GET http://localhost:5000/companies
+###
+
+GET http://localhost:5000/companies/6363a1cadabe83469a9bcaa8
+
+###
+POST http://localhost:5000/companies
+Content-Type: application/json
+
+{
+    "name":"Purple",
+    "url":"http://purple.com/"
+}
