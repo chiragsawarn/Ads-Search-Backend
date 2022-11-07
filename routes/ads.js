@@ -20,9 +20,7 @@ router.get('/', async (req, res)=>{
 router.post('/search', async (req, res)=>{
     try{
         const searchInput = req.body.searchInput;
-        const ads = await  Ads.find( { $text: { $search: searchInput } } ).populate({
-            path:'companyId'
-        })
+        const ads = await  Ads.aggregate([{$lookup:{from:'companies', localField:'companyId',foreignField:'_id',as:'company'}},{$unwind:'$company'},{$addFields:{companyName:'$company.name'}},{$match:{$or:[{companyName:searchInput},{primaryText:searchInput},{headline:searchInput},{description:searchInput}]}}]);
         res.json(ads)
     }catch(err){
         res.status(500).json({message:err.message})
@@ -38,7 +36,6 @@ router.get('/:id', getAd, (req, res)=>{
 router.post('/', async (req, res)=>{
     const ad = new Ads({
         companyId:req.body.companyId,
-        companyName:req.body.companyName,
         primaryText:req.body.primaryText,
         headline:req.body.headline,
         description:req.body.description,

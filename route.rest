@@ -6,7 +6,7 @@ POST http://localhost:5000/ads/search
 Content-Type: application/json
 
 {
-    "searchInput":"Curology"
+    "searchInput":"MADE WITH LOVE FOR YOUR LOVE FOR CRICKET"
 }
 ###
 
@@ -14,12 +14,11 @@ POST http://localhost:5000/ads
 Content-Type: application/json
 
 {
-    "companyId":"6363a1cadabe83469a9bcaa8",
-    "companyName":"Levi's",
-    "primaryText":"100% ireland spun pure cotton.",
-    "headline":"Women's Pure Cotton Jeans",
-    "description":"Environment friendly, premium fabric.",
-    "cta":"Order Now",
+    "companyId":"6363a239dabe83469a9bcaae",
+    "primaryText":"Timeless trainers with rugged style, made in part with recycled materials.",
+    "headline":"Stan Smith Shoes",
+    "description":"Swerve through crowds and cruise across sidewalks. These adidas Stan Smith shoes are built for city exploration. A style that's been effortlessly cool for 50 years and counting, they've been updated with a durable CORDURA upper that holds up to the scuffs and scrapes of daily life. Just like the original, their simple aesthetic pairs well with every single thing on your calendar.",
+    "cta":"Buy Now",
     "imageUrl":"https://drive.google.com/file/d/17kQiqGnkLEZZmnzLlWG7ZIlN6XbwAVfb/view?usp=sharing"
 }
 

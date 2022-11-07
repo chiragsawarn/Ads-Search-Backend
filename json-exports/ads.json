@@ -1,0 +1,183 @@
+[{
+  "_id": {
+    "$oid": "6363b11579cbcdac19eb877a"
+  },
+  "companyName": "Salesforce",
+  "companyId": {
+    "$oid": "6363a218dabe83469a9bcaac"
+  },
+  "primaryText": "The world's leading CRM is ready to help you simplify the business part of your small business.",
+  "headline": "Salesforce for Small Business",
+  "description": "",
+  "cta": "Sign Up",
+  "imageUrl": "https://drive.google.com/file/d/17huYmoSHdbgcNqfoO4yYYGIFf8X1243T/view?usp=sharing",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6363b29779cbcdac19eb877e"
+  },
+  "companyName": "Levi's",
+  "companyId": {
+    "$oid": "6363a1cadabe83469a9bcaa8"
+  },
+  "primaryText": "We like where you're going with this.",
+  "headline": "Relaxed Fit Men's Jeans",
+  "description": "",
+  "cta": "Shop Now",
+  "imageUrl": "https://drive.google.com/file/d/17kQiqGnkLEZZmnzLlWG7ZIlN6XbwAVfb/view?usp=sharing",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6363b35479cbcdac19eb8780"
+  },
+  "companyName": "Cotopaxi",
+  "companyId": {
+    "$oid": "6363a264dabe83469a9bcab2"
+  },
+  "primaryText": "Teva x Cotopaxi is back! Celebrate eternal summer with limited-edition Teva x Cotopaxi Original Universal sandals in bold new colors.",
+  "headline": "Made With Recycled Plastic",
+  "description": "Shop Back to School",
+  "cta": "Shop Now",
+  "imageUrl": "https://drive.google.com/open?id=17nXWIFT-63JLfEvBEuQiyDYmA2dckCmq&authuser=rohit103%40gmail.com&usp=drive_fs",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63645415f7f665b3052b322a"
+  },
+  "companyName": "Netflix",
+  "companyId": {
+    "$oid": "6363a27adabe83469a9bcab4"
+  },
+  "primaryText": "The Emmy-nominated Netflix comedy special from the late Norm Macdonald is his last gift to the world of comedy he helped shape.",
+  "headline": "Norm Macdonald's Nothing Special gives one last dose of the late comic",
+  "description": "",
+  "cta": "Learn More",
+  "imageUrl": "https://drive.google.com/file/d/17o3sgN_A6GKPwgZsEpneBYODhRs9tKga/view?usp=sharing",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63645476f7f665b3052b322c"
+  },
+  "companyName": "Valentino",
+  "companyId": {
+    "$oid": "6363a2abdabe83469a9bcab8"
+  },
+  "primaryText": "Visit Valentino.com, discover the new products and shop now!",
+  "headline": "Valentino Hexagonal Metal Frame With Crystal Studs",
+  "description": "",
+  "cta": "Shop Now",
+  "imageUrl": "https://drive.google.com/file/d/17sz2UuPNcoHXz-U27EYcwmhkI1ZQUmPZ/view?usp=sharing",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636454d5f7f665b3052b322e"
+  },
+  "companyName": "Purple",
+  "companyId": {
+    "$oid": "6363a2d5dabe83469a9bcabc"
+  },
+  "primaryText": "Say 'goodnight' to sleeping hot 🔥 with Purple products—designed to dissipate heat.",
+  "headline": "Cooler Summers Start Here",
+  "description": "Shop Purple products, designed to help you sleep cool.",
+  "cta": "Shop Now",
+  "imageUrl": "https://drive.google.com/file/d/17vrlQMchymHqlN35p4os23jYqQjFiUNq/view?usp=sharing",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6364554af7f665b3052b3230"
+  },
+  "companyName": "Curology",
+  "companyId": {
+    "$oid": "6363a2c1dabe83469a9bcaba"
+  },
+  "primaryText": "Dark spots. Breakouts. Rosacea. Dull skin. Fine lines. Our formulas are custom-mixed for YOUR skin concerns.",
+  "headline": "Personalized skincare for dark spots, acne, and more.",
+  "description": "Personalized skincare for dark spots, acne, and more. Results may vary.",
+  "cta": "Order Now",
+  "imageUrl": "https://drive.google.com/file/d/17vzdu8jSulXgzk9rkJaHP7W1940pQaAV/view?usp=sharing",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63666d6871b1e7231e4ce2eb"
+  },
+  "companyId": {
+    "$oid": "6363a1cadabe83469a9bcaa8"
+  },
+  "companyName": "Levi's",
+  "primaryText": "100% ireland spun pure cotton.",
+  "headline": "Women's Pure Cotton Jeans",
+  "description": "Environment friendly, premium fabric.",
+  "cta": "Order Now",
+  "imageUrl": "https://drive.google.com/file/d/17kQiqGnkLEZZmnzLlWG7ZIlN6XbwAVfb/view?usp=sharing",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636774033a9bae01f83e47ba"
+  },
+  "companyId": {
+    "$oid": "6363a1cadabe83469a9bcaa8"
+  },
+  "companyName": "Levi's",
+  "primaryText": "World's most comfortable shoes are now also available in White!",
+  "headline": "Unisex Canvas Shoes",
+  "description": "Made in Bangladesh",
+  "cta": "Order Now",
+  "imageUrl": "https://drive.google.com/file/d/17kQiqGnkLEZZmnzLlWG7ZIlN6XbwAVfb/view?usp=sharing",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6367749e3a9bae01f83e47bc"
+  },
+  "companyId": {
+    "$oid": "6363a1cadabe83469a9bcaa8"
+  },
+  "companyName": "Levi's",
+  "primaryText": "Levi's Men's Grey Sneakers",
+  "headline": "Sneaker Shoes",
+  "description": "Classic yet stylish, the Levi's Men's Sneakers is sure to become your go-to footwear in an instant. Thanks to the cotton upper and the TPR sole of these sneakers, they are lightweight and comfortable. These Dark Grey sneakers go well with your shorts. ",
+  "cta": "Order Now",
+  "imageUrl": "https://drive.google.com/file/d/17kQiqGnkLEZZmnzLlWG7ZIlN6XbwAVfb/view?usp=sharing",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636775783a9bae01f83e47be"
+  },
+  "companyId": {
+    "$oid": "6363a239dabe83469a9bcaae"
+  },
+  "companyName": "Adidas",
+  "primaryText": "Running shoes for extra stability, made in part with recycled materials.",
+  "headline": "Solarcontrol Shoes",
+  "description": "The adidas range of men's shoes has got you covered, if you're striving to be the best or you just want the best fit for your daily life. With iconic designs and high-performance technologies, you can be sure that your shoes won't let you down.",
+  "cta": "Buy Now",
+  "imageUrl": "https://drive.google.com/file/d/17kQiqGnkLEZZmnzLlWG7ZIlN6XbwAVfb/view?usp=sharing",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636775fa3a9bae01f83e47c0"
+  },
+  "companyId": {
+    "$oid": "6363a239dabe83469a9bcaae"
+  },
+  "companyName": "Adidas",
+  "primaryText": "MADE WITH LOVE FOR YOUR LOVE FOR CRICKET",
+  "headline": "22YDS Shoes",
+  "description": "These Adidas 22 Yards cricket shoes are for lovers of the game. Inspired from the 22YDS series, these shoes have a synthetic upper and perforations for ventilation.",
+  "cta": "Buy Now",
+  "imageUrl": "https://drive.google.com/file/d/17kQiqGnkLEZZmnzLlWG7ZIlN6XbwAVfb/view?usp=sharing",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636776683a9bae01f83e47c2"
+  },
+  "companyId": {
+    "$oid": "6363a239dabe83469a9bcaae"
+  },
+  "companyName": "Adidas",
+  "primaryText": "Timeless trainers with rugged style, made in part with recycled materials.",
+  "headline": "Stan Smith Shoes",
+  "description": "Swerve through crowds and cruise across sidewalks. These adidas Stan Smith shoes are built for city exploration. A style that's been effortlessly cool for 50 years and counting, they've been updated with a durable CORDURA upper that holds up to the scuffs and scrapes of daily life. Just like the original, their simple aesthetic pairs well with every single thing on your calendar.",
+  "cta": "Buy Now",
+  "imageUrl": "https://drive.google.com/file/d/17kQiqGnkLEZZmnzLlWG7ZIlN6XbwAVfb/view?usp=sharing",
+  "__v": 0
+}]

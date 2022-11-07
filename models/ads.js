@@ -7,10 +7,6 @@ const adsSchema = new mongoose.Schema({
         ref:companies,
         required:true
     },
-    companyName:{
-        type:String,
-        required:true,
-    },
     primaryText:{
         type:String,
         required:true

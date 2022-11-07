@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "6363a1cadabe83469a9bcaa8"
+  },
+  "name": "Levis",
+  "url": "http://levis.com/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6363a1f4dabe83469a9bcaaa"
+  },
+  "name": "Puma",
+  "url": "http://puma.com/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6363a218dabe83469a9bcaac"
+  },
+  "name": "Salesforce",
+  "url": "http://salesforce.com/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6363a239dabe83469a9bcaae"
+  },
+  "name": "Adidas",
+  "url": "http://adidas.com/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6363a24cdabe83469a9bcab0"
+  },
+  "name": "Nike",
+  "url": "http://nike.com/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6363a264dabe83469a9bcab2"
+  },
+  "name": "Cotopaxi",
+  "url": "http://cotopaxi.com/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6363a27adabe83469a9bcab4"
+  },
+  "name": "Netflix",
+  "url": "http://netflix.com/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6363a292dabe83469a9bcab6"
+  },
+  "name": "Colgate",
+  "url": "http://colgate.com/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6363a2abdabe83469a9bcab8"
+  },
+  "name": "Valentino",
+  "url": "http://valentino.com/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6363a2c1dabe83469a9bcaba"
+  },
+  "name": "Curology",
+  "url": "http://curology.com/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6363a2d5dabe83469a9bcabc"
+  },
+  "name": "Purple",
+  "url": "http://purple.com/",
+  "__v": 0
+}]
